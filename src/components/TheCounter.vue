@@ -32,6 +32,7 @@ export default defineComponent({
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-top: 30px;
 }
 
 .counter-button {

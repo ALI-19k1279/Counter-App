@@ -72,6 +72,8 @@ nav a:first-of-type {
     display: flex;
     place-items: flex-start;
     flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
   }
 
   nav {
